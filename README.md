@@ -47,8 +47,6 @@
 </div>   
 
 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2D9964&vCenter=true&repeat=false&width=600&height=60&lines=Ol%C3%A1+Espero+que+tenha+gostadoo+%F0%9F%91%8B)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&color=AA755F&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Obrigado-Pela+Visita+ao+meu+perfil.;Pegue+um+caf%C3%A9+para+recordar+a+experiencia%3A+%E2%98%95)](https://git.io/typing-svg)
 
 
