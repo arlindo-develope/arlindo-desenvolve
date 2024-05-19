@@ -1,8 +1,8 @@
 
 # 🤖Evolução & Aprendizado🤖
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Arlindo+Julião;Estudante+em+Desenvolvimento+de+Software;Bem-Vindo+ao+meu+perfil+do+GitHub+) 
-☕Sou estudante de Análise e Desenvolvimento de Software na Unibra e sou apaixonado por tecnologia📚
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Arlindo+Julião;Estudante+em+Engenharia+de+Software;Bem-Vindo+ao+meu+perfil+do+GitHub+) 
+☕Sou estudante de Engenharia de Software na Uninter e sou apaixonado por tecnologia📚
 
 <img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
